@@ -4,12 +4,8 @@
 # PROJECT
 
 [project]
-name = "fmind-ai-assistant"
+name = "fmind-ai-assistant-gradio"
 version = "5.0.0"
-description = "Answer questions about my background in natural language."
-authors = [{ name = "Médéric HURIER", email = "github@fmind.dev" }]
-readme = "README.md"
-license = { file = "LICENSE.txt" }
 requires-python = ">=3.13"
 dependencies = ["google-genai>=1.29.0", "gradio>=5.42.0"]
 

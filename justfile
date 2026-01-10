@@ -9,7 +9,7 @@ uv := require("uv")
 
 # VARIABLES
 
-REPOSITORY := "fmind-ai-assistant"
+REPOSITORY := "fmind-ai-assistant-gradio"
 SOURCES := "*.py"
 
 # DEFAULTS
